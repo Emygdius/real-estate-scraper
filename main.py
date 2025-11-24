@@ -5,7 +5,7 @@ import time
 
 def scrape_properties():
     """
-    Scrapes property data (Title, Price, Location) and saves to CSV.
+    Scrapes property data (Title, Location, Price) and saves to CSV.
     """
     # URL to scrape (Using a scraper sandbox for demonstration safety)
     url = "https://webscraper.io/test-sites/e-commerce/allinone/computers/laptops"
